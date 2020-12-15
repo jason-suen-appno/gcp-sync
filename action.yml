@@ -1,0 +1,4 @@
+name: "GS Sync"
+runs:
+  using: docker
+  image: Dockerfile
